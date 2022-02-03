@@ -23,3 +23,29 @@
 - Thanks for visiting.
 
 - Enjoy it!!
+
+# Bem vindo(a)!
+
+ 
+
+## Me chamo Bruno Richard!
+
+ 
+
+:computer: Eu sou Desenvolvedor Full Stack!
+
+:house_with_garden: Eu moro em São Paulo - Brazil.
+
+:books: Atualmente estou aprendendo Node e React.
+
+:outbox_tray: Metas de 2022: Me formar em Análise de Sistemas e me tornar um desenvolvedor profissional.
+
+## Sobre mim
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bruno-richard-a931b6199/)
+
+
+
+- Obrigado pela visita.
+
+- Aproveite!!
