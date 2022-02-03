@@ -12,7 +12,7 @@
 
 :books: I’m currently learning Node and React.
 
-:outbox_tray: 2021 Goals: I majored in Systems Analisys and become a professional developer.
+:outbox_tray: 2022 Goals: I majored in Systems Analisys and become a professional developer.
 
 ## About me
 
